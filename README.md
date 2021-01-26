@@ -17,17 +17,20 @@ This project implements a simple ATM controller. It consists of workflows for re
 1. Click on green 'Code' button on the main page of the repository.
 2. Copy the web URL under the 'Clone with HTTPS' header
 3. Open Terminal on your computer and change the directory to the location where you want the clone project to be saved.
-4. Type in 'git clone {web URL that you copied}' and press enter.
+4. Type in 'git clone {web URL that you copied}' and press Enter.
 5. Congrats! You have cloned the project.
 
 
 ## How to Build
-* Tech 1 - version 1.0
-* Tech 2 - version 2.0
-* Tech 3 - version 3.0
+To install dependencies, do the following:
 
-## Setup
-Describe how to install / setup your local environement / add link to demo version.
+1. XXX
+2. Type in 'conda install --file requirements.txt and press Enter.
+
+
+## Running Tests
+1. XXX
+2. Type in 'pytest' and press Enter.
 
 ## Code Examples
 Show examples of usage:
