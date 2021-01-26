@@ -25,7 +25,7 @@ This project implements a simple ATM controller. It consists of workflows for re
 To install dependencies, do the following:
 
 1. XXX
-2. Type in 'conda install --file requirements.txt and press Enter.
+2. Type in 'conda install --file requirements.txt' and press Enter.
 
 
 ## Running Tests
