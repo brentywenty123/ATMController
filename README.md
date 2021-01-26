@@ -10,7 +10,7 @@ A simple controller for an ATM. Created with Python 3.8.5
 
 
 ## General Info
-This project implements a simple ATM controller. It consists of workflows for reading the inserted card number and verifying the inputted PIN. The controller also considers several actions that are often included in an ATM: checking balance, making deposits, making withdrawals, and making transfers.
+This project implements a simple ATM controller. It consists of workflows for reading the inserted card number, verifying the inputted PIN, and choosing account type. The controller also considers several actions that are often included in an ATM: checking balance, making deposits, making withdrawals, and making transfers.
 
 
 ## How to Clone
